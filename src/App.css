@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+.App {
+  width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #1b1b1d;
+  font-family: "Roboto", cursive;
+}
+
+.heading {
+  text-transform: none;
+  font-size: 40px;
+  margin: 30px 0;
+  color: #fbf1c7;
+  z-index: 1;
+  text-align: center;
+}
+
+@media (max-width: 800px) {
+  .heading {
+    margin: 15px 0;
+    font-size: 35px;
+  }
+}
+
