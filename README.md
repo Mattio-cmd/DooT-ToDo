@@ -1,5 +1,5 @@
-# DooT: ToDo => DooT
-<img src="https://github.com/Mattio-cmd/DooT-ToDo/screenshots/3.png">
+# DooT: ToDo -> DooT
+<img src="https://raw.githubusercontent.com/Mattio-cmd/DooT-ToDo/main/screenshots/3.png">
 
 ## Available Scripts
 
