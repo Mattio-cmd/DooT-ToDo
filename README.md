@@ -1,6 +1,17 @@
 # DooT: ToDo -> DooT
 <img src="https://raw.githubusercontent.com/Mattio-cmd/DooT-ToDo/main/screenshots/3.png">
 
+## Screenshots
+
+<img src="https://raw.githubusercontent.com/Mattio-cmd/DooT-ToDo/main/screenshots/1.png">
+<img src="https://raw.githubusercontent.com/Mattio-cmd/DooT-ToDo/main/screenshots/2.png">
+
+## About it
+DooT was inspired by ![this](https://www.youtube.com/watch?v=FJDVKeh7RJI) tutorial in freeCodeCamp by ![Rodeside Coder](https://github.com/piyush-eon).<br>
+I would say it is custom enough to be considered a "fork" but in no way i would have done it without the tutorial, so thanks again to Roadside Coder.<br>
+Altough im definetily making this available on my phone, its really cool and actually usefull.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
